@@ -72,7 +72,6 @@ body {
     font-family: "Marcellus", sans-serif; ;
 }
 
-/* ✨ Cute Quote Styling ✨ */
 .quote {
     position: absolute;
     bottom: 20px; 
@@ -90,7 +89,6 @@ body {
     animation: fadeIn 2s ease-in forwards 1s;
 }
 
-/* 🌸 Soft Fade-in Animation for Quote */
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(10px); }
     to { opacity: 1; transform: translateY(0); }
